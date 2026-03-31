@@ -1,2 +1,2 @@
-# Selenium-Automation-Project
-Automation testing project using Java Selenium
+# Selenium-Login-Automation
+Login automation using Selenium Java
